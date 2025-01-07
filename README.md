@@ -5,9 +5,6 @@
 <p align="center">
 <br />
 <br />
- 
-> Saas Starter Kit is a modern SAAS boilerplate. Save weeks of development time having standard SAAS features implemented for you, and start building your core app right away. 
-
 1. Legal & Business Setup
 
     Choose a business name and check domain availability.
